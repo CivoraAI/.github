@@ -155,6 +155,6 @@ EXPO_PUBLIC_API_BASE=http://<YOUR_MAC_IP>:8000 npx expo start --tunnel
 
 
 # Contact Info
-Backend API + business logic for Unspun AI app Point to src/, tests/, scripts/ Contact: Arav Dharnikota(adharnikota@gmail.com; Discord: aravd80) 
+Backend API + frontend logic for Unspun AI app Point to src/, tests/, scripts/ Contact: Arav Dharnikota(adharnikota@gmail.com; Discord: aravd80) 
 
 Note: Org name remains Civora; however, due to copyright issues, the name was changed to Unspun.
